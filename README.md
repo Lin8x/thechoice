@@ -5,10 +5,10 @@
 
 ------------------------------------------------------------------------
 
-**Tool Version:** 1.0 <br>
-**Author:** github.com/thelinuxchoice <br>
-**IG:** instagram.com/thelinuxchoice <br>
-**Github:** github.com/thelinuxchoice/thechoice <br>
+**Tool Version:**   1.0 <br>
+**Author:**         github.com/thelinuxchoice <br>
+**IG:**             instagram.com/thelinuxchoice <br>
+**Github:**         github.com/thelinuxchoice/thechoice <br>
 
 ***Don't copy this code without give me the credits, nerd!***
 
